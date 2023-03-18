@@ -1,0 +1,30 @@
+.info {
+    height: 55vh;
+    background: url("../img/polygon.jpg") center center no-repeat;
+    background-blend-mode: multiply;
+    background-color: #484747;
+    border: 2px solid #1f1f1f;
+    border-right: 2px solid #131e29;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #000;
+}
+
+.info h1 {
+    font-size: 3em;
+    color: #fff;
+}
+
+.info p {
+    color: #e4e4e4;
+    font-weight: bold;
+}
+
+.infoWeath {
+    width: 60%;
+    font-size: 20px;
+    color: #fff;
+}

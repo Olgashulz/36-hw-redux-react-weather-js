@@ -1,0 +1,8 @@
+.form {
+    height: 55vh;
+    padding-top: 100px;
+    padding-left: 50px;
+    border-top: 2px solid #113a65;
+    border-bottom: 2px solid #113a65;
+    border-right: 2px solid #113a65;
+}
